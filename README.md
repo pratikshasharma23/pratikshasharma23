@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6eb4,40:c084fc,70:818cf8,100:38bdf8&height=220&section=header&text=Pratiksha%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20DevOps%20%7C%20Black%20Belt%20%F0%9F%A5%8B&descAlignY=77&descSize=17&descColor=ffe4f7" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&pause=1000&color=c084fc&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Pratiksha+%F0%9F%91%8B%E2%9C%A8;Full+Stack+Dev+%40+KIIT+%7C+CGPA+9.01+%F0%9F%8C%9F;Built+AI-Powered+Apps+with+Gemini+API+%F0%9F%A4%96;Real-Time+Chat+%7C+Docker+%7C+CI%2FCD+Pipelines;Karate+Black+Belt+%26+ISL+Performer+%F0%9F%8E%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&pause=1000&color=c084fc&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Pratiksha+%F0%9F%91%8B%E2%9C%A8;Full+Stack+Dev+%40+KIIT+%7C+CGPA+8.96+%F0%9F%8C%9F;Built+AI-Powered+Apps+with+Gemini+API+%F0%9F%A4%96;Real-Time+Chat+%7C+Docker+%7C+CI%2FCD+Pipelines;Karate+Black+Belt+%26+ISL+Performer+%F0%9F%8E%AD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=pratiksha-sharma&label=Profile+Views&color=c084fc&style=flat-square" />
   <img src="https://img.shields.io/github/followers/pratiksha-sharma?label=Followers&style=flat-square&color=f472b6&labelColor=1e1b2e" />
-  <img src="https://img.shields.io/badge/CGPA-9.01%2F10-f472b6?style=flat-square&labelColor=1e1b2e" />
+  <img src="https://img.shields.io/badge/CGPA-8.96%2F10-f472b6?style=flat-square&labelColor=1e1b2e" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-%23c084fc?style=flat-square&labelColor=1e1b2e" />
 </p>
 
@@ -52,34 +52,35 @@ const pratiksha = {
 
 ## 🚀 Featured Projects
 
-### 💬 Chatty — Full-Stack Real-Time Chat Application
-> *React · Node.js · Express.js · MongoDB · Socket.io · JWT · Cloudinary · REST API*
+### 📱 LogiQR — QR-Based Entry Logger System
+> *Google Apps Script · Google Sheets · HTML · CSS · JavaScript · QR Scanner*
 
 | ✨ Feature | 📝 Details |
 |---|---|
-| ⚡ **Real-Time Messaging** | Powered by **Socket.io** with live presence indicators |
-| 🔐 **Authentication** | Secure **JWT-based** auth system |
-| 🖼️ **Media Management** | **Cloudinary** integration for images & files |
-| 🎨 **Frontend** | Responsive **React UI** with clean component architecture |
-| 🏗️ **Backend** | **Node.js + Express** RESTful API backed by **MongoDB** |
-| 🚢 **Deployment** | Production-ready, fully deployed full-stack application |
+| 📷 QR Code Scanning | Fast QR-based entry logging system for attendance and access management |
+| 📊 Live Dashboard | Real-time display of scanned records and user activity |
+| ☁️ Cloud Backend | Built using Google Apps Script with Google Sheets as a lightweight database |
+| 🔍 Search & Tracking | Quickly search and track visitor/student records |
+| 📈 Analytics Ready | Structured data collection for future reporting and visualization |
+| 📱 Responsive UI | Mobile-friendly interface for scanners and administrators |
+| 🚀 Deployment | Fully web-based solution requiring no local installation |
 
 ---
 
-### 🤖 ResumeLift — AI-Powered Resume Builder
-> *React (Vite) · Tailwind CSS · Node.js · Express · MongoDB · Docker · GitHub Actions · Google Gemini AI*
+### 🏭 SMS Ladle Management Dashboard
+> *HTML · CSS · JavaScript · Real-Time Monitoring · Industrial Analytics*
 
 | ✨ Feature | 📝 Details |
 |---|---|
-| 🧠 **AI Generation** | **Google Gemini API** for intelligent resume content generation |
-| 🔐 **Auth & Storage** | **JWT** authentication + **MongoDB** persistence |
-| 🎨 **Frontend** | Responsive **React + Tailwind CSS** UI built with Vite |
-| 🐳 **DevOps** | **Docker** containerisation for reproducible builds |
-| 🔄 **CI/CD** | **GitHub Actions** automated deployment pipeline |
-| 🏭 **Production** | Full production-grade software engineering practices |
+| 🔥 Ladle Status Monitoring | Track ladle lifecycle and operational status in real time |
+| 📊 Visual Dashboard | Clean industrial dashboard with status indicators and summaries |
+| ⚡ Real-Time Updates | Dynamic updates without page reloads |
+| 💡 Interactive Tooltips | Detailed operational information available on hover |
+| 📈 Manufacturing Insights | Visual representation of process data for faster decision-making |
+| 📱 Responsive Design | Optimized for desktop, tablet, and mobile devices |
+| 🎨 Modern UI/UX | Professional dark-themed interface suitable for industrial environments |
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -174,7 +175,6 @@ const pratiksha = {
 ## 🎯 Currently Exploring
 
 ```
-🔨  Scaling ResumeLift with more AI features
 📚  Deep-diving into System Design & Microservices
 🧠  Strengthening DSA — LeetCode daily
 🌱  Exploring Next.js 14 App Router & Server Components
