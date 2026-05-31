@@ -38,7 +38,7 @@ const pratiksha = {
   name        : "Pratiksha Sharma",
   university  : "KIIT University, Bhubaneswar 🎓",
   degree      : "B.Tech — CSE (2023–2027)",
-  cgpa        : "9.01 / 10 ⭐",
+  cgpa        : "8.96 / 10 ⭐",
   location    : "India 🇮🇳",
   roles       : ["Full Stack Developer", "AI App Builder", "DevOps Enthusiast"],
   superPowers : ["React", "Node.js", "MongoDB", "Docker", "Gemini AI", "Socket.io"],
